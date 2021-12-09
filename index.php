@@ -45,6 +45,7 @@
     <div style=" padding: 20px;
   padding-bottom:35%;">
         <p class="text-center">Hello, WebHome Education</p>
+
     </div>
 </main>
 <!-- Footer -->
