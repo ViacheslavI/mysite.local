@@ -11,7 +11,5 @@ class Calculate
             echo $table . " x " . $i . " = " . $table * $i . "<br>";
 
         }
-
     }
-
 }

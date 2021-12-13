@@ -6,12 +6,12 @@ $tmp = new Calculate(); ?>
     <table style="border-style: double;">
         <tbody class="table table-bordered">
         <tr>
-            <?php for ($i = 1; $i <= 5; $i++): ?>
+            <?php for ($i = 1; $i <= 5; $i++) : ?>
                 <td><?= $tmp->calc($i); ?></td>
             <?php endfor; ?>
         </tr>
         <tr>
-            <?php for ($i = 6; $i <= 10; $i++): ?>
+            <?php for ($i = 6; $i <= 10; $i++) : ?>
                 <td><?= $tmp->calc($i); ?></td>
             <?php endfor; ?>
         </tr>
